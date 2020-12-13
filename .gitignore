@@ -1,0 +1,4 @@
+/logs/
+/.idea/
+/src/main/spring-frontend/node/
+shutdown.pid
